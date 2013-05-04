@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Schema::grammar(${1:\$connection});]]></content>
-    <tabTrigger>Schema</tabTrigger>
+    <tabTrigger>Sch-g</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Schema::grammar()</description>
 </snippet>

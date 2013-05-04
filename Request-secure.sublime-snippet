@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Request::secure();]]></content>
-    <tabTrigger>Request</tabTrigger>
+    <tabTrigger>Req-s</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Request::secure()</description>
 </snippet>

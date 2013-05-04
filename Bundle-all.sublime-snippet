@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::all();]]></content>
-    <tabTrigger>Bundle</tabTrigger>
+    <tabTrigger>Bund-a</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Bundle::all()</description>
 </snippet>

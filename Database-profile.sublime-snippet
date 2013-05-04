@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Database::profile();]]></content>
-    <tabTrigger>Database</tabTrigger>
+    <tabTrigger>Db-p</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Database::profile()</description>
 </snippet>

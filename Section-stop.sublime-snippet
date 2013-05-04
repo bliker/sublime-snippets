@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Section::stop();]]></content>
-    <tabTrigger>Section</tabTrigger>
+    <tabTrigger>Sect-s</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Section::stop()</description>
 </snippet>

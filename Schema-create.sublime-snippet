@@ -4,7 +4,7 @@
 	${2}
 	\$table->timestamps();
 });]]></content>
-    <tabTrigger>Schema</tabTrigger>
+    <tabTrigger>Sch-c</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Schema::create()</description>
 </snippet>
